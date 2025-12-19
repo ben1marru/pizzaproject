@@ -1,0 +1,18 @@
+{
+    "name": "kolot/pizzaproject",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kolot\\pizzaproject\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ben1marru/pizzalib"
+        }
+    ],
+    "require": {
+        "kolot/pizzalib": "dev-master"
+    }
+}
