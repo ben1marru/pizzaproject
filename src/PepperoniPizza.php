@@ -1,6 +1,6 @@
 <?php
 
-namespace Kolot\Pizzaproject;
+namespace kolot\pizzaproject;
 
 use kolot\pizzalib\Pizza;
 

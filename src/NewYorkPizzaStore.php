@@ -1,11 +1,11 @@
 <?php
 
-namespace Kolot\Pizzalib;
+namespace kolot\pizzaproject;
 
-use Kolot\Pizzalib\MargheritaPizza;
-use Kolot\Pizzalib\PepperoniPizza;
+use Kolot\Pizzaproject\MargheritaPizza;
+use Kolot\Pizzaproject\PepperoniPizza;
 use Kolot\Pizzalib\PizzaStore;
-use Kolot\Pizzalib\VeggiePizza;
+use Kolot\Pizzaproject\VeggiePizza;
 
 class NewYorkPizzaStore extends PizzaStore
 {
