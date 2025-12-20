@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ben1marru/pizzalib.git",
-                "reference": "99a05f27ea00b555f1e51fc97a180710212abb7f"
+                "reference": "c3c139fb3e249b1b4a3f0f8ab5e9470d7441cf6d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ben1marru/pizzalib/zipball/99a05f27ea00b555f1e51fc97a180710212abb7f",
-                "reference": "99a05f27ea00b555f1e51fc97a180710212abb7f",
+                "url": "https://api.github.com/repos/ben1marru/pizzalib/zipball/c3c139fb3e249b1b4a3f0f8ab5e9470d7441cf6d",
+                "reference": "c3c139fb3e249b1b4a3f0f8ab5e9470d7441cf6d",
                 "shasum": ""
             },
             "default-branch": true,
@@ -31,7 +31,7 @@
                 "source": "https://github.com/ben1marru/pizzalib/tree/main",
                 "issues": "https://github.com/ben1marru/pizzalib/issues"
             },
-            "time": "2025-12-20T00:06:46+00:00"
+            "time": "2025-12-20T00:27:49+00:00"
         }
     ],
     "packages-dev": [],

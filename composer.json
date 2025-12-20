@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "kolot/pizzalib": "dev-master"
+        "kolot/pizzalib": "dev-main"
     }
 }
