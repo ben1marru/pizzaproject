@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f443c59729d1ee93b3b4a2d8f3e4d8b3",
+    "packages": [
+        {
+            "name": "kolot/pizzalib",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ben1marru/pizzalib.git",
+                "reference": "99a05f27ea00b555f1e51fc97a180710212abb7f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ben1marru/pizzalib/zipball/99a05f27ea00b555f1e51fc97a180710212abb7f",
+                "reference": "99a05f27ea00b555f1e51fc97a180710212abb7f",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Kolot\\Pizzalib\\": "src/"
+                }
+            },
+            "support": {
+                "source": "https://github.com/ben1marru/pizzalib/tree/main",
+                "issues": "https://github.com/ben1marru/pizzalib/issues"
+            },
+            "time": "2025-12-20T00:06:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "kolot/pizzalib": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}
